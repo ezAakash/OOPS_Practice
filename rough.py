@@ -1,1 +1,3 @@
-yo yo bantai rapper 
+
+
+haram = "mussali and musssla "

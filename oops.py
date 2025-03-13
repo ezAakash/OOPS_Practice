@@ -10,7 +10,7 @@ class Employee:
     def display(self):#like in java this is implict . here self is explicit 
         print(f"Name: {self.name} Age: {self.age} Salary: {self.salary} Designation: {self.designation}")
 
-    def doplayCricket(self):
+    def do_play_Cricket(self):
         if(self.age > 18 and self.salary > 50000):
             print(f"{self.name} can play cricket")
 
@@ -18,9 +18,9 @@ class Employee:
 emp1 = Employee("Aakash",22,100000,"MLOPs Engineer")
 
 emp1.display()
-emp1.doplayCricket()
+emp1.do_play_Cricket()
 emp2 = Employee("Bhuvan",22,100000,"SDE")
-print(emp1,emp2)
+print(type(emp1),emp2)
 
 
 

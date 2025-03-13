@@ -1,4 +1,14 @@
 1.class and objects
 2.class has data/attributes also functions/methods
+
+interview  question :
+    deeper understanding of consturctor and how in real world we use it :
+        one liner :- to initialize those things which we don't want our user to initialize or do manually.
+        
 3.why python is OOP language?
-4.How do we initiate a class
+4.ya sure , eveything is object in python (data strucute/ data)
+5.Advantages of OOPS:
+    - You can create your own dataType.
+    - code reusability 
+    - deugging -- helpful in modular coding.
+    - easy to collab
