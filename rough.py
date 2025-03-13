@@ -1,3 +1,1 @@
-
-
 haram = "mussali and musssla "

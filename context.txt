@@ -4,7 +4,7 @@
 interview  question :
     deeper understanding of consturctor and how in real world we use it :
         one liner :- to initialize those things which we don't want our user to initialize or do manually.
-        
+
 3.why python is OOP language?
 4.ya sure , eveything is object in python (data strucute/ data)
 5.Advantages of OOPS:
@@ -12,3 +12,9 @@ interview  question :
     - code reusability 
     - deugging -- helpful in modular coding.
     - easy to collab
+
+6.OOPS Project -- chatbook
+7.what from x.y import z is 
+8.function vs method 
+9.magic method / dundar method  (algebra data type doesn't exist in python)
+10.self
