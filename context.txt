@@ -18,3 +18,5 @@ interview  question :
 8.function vs method 
 9.magic method / dundar method  (algebra data type doesn't exist in python)
 10.self
+
+----- Holi 14 March -------
