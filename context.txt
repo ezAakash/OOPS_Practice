@@ -20,3 +20,11 @@ interview  question :
 10.self
 
 ----- Holi 14 March -------
+
+11.what is self keyword? got i solid answer 
+    --self is like the current class object.
+
+12.You can create attributes ,outside class as well.
+
+13.encapsulation 
+14.getter and setter 
