@@ -28,3 +28,6 @@ interview  question :
 
 13.encapsulation 
 14.getter and setter 
+15.static , why self not required.
+
+16.Now, Inheritance.
