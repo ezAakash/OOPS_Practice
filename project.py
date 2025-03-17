@@ -1,11 +1,32 @@
 class chatbook:
-
+    """
+    here class level variable's are declared 
+    """
+    id = 0
     def __init__(self):
+        #want to give every user a unique id.
+        chatbook.id += 1
+        self.user_id = chatbook.id
         self.__name = "Default User"
         self.username = ''
         self.password = ''
         self.loggedin = False
         # self.menu()
+
+    '''
+    we can build static method for the class , which have class level access rather object level access.
+    what is static keyword in python in a nutshell?
+    static keyword is used to define a static method in a class.
+    static method is a method that belongs to the class rather than the object of a class.
+    it is a method that is bound to the class and not the object of the class.
+    '''
+    @staticmethod
+    def get_id():
+        return id
+    
+    def set_id(id):
+        chatbook.id = id 
+
 
 
     def get_name(self):
