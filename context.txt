@@ -31,3 +31,5 @@ interview  question :
 15.static , why self not required.
 
 16.Now, Inheritance.
+    --simple inheritance.
+    
